@@ -11,5 +11,14 @@
 => 📫 How to reach me: rudransh1482@gmail.com <br/>
 => 😄 Pronouns: He/Him <br/>
 => ⚡ Fun fact: You are eating density and tension if you are eating Roti xD <br/>
-<br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Red-0111)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Red-0111&show_icons=true&theme=radical)
+
